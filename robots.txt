@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loboathes.github.io/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/app/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/assets/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/css/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/includes/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/item/loboathes.txt.gz
+Sitemap: https://loboathes.github.io/src/loboathes.txt.gz
